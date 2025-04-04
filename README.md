@@ -46,7 +46,7 @@ Ajuda
 Se ocorrerem erros relacionados a versões de pacotes, tente reinstalar as bibliotecas utilizando pip install --upgrade.
 
 Autores
-Thais Aparecida Cardoso
+Thais Aparecida dos Santos Cardoso
 
 Histórico de Versões
 0.1 - Primeira versão do projeto.
@@ -55,6 +55,6 @@ Licença de Uso
 Este projeto é de uso livre e segue a licença MIT.
 
 Fontes de Inspiração
-Dataset do Kaggle: Credit Card Fraud Detection
+Dataset do Kaggle: Credit Card Fraud Detection < https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud >
 
 Documentação do Scikit-learn: https://scikit-learn.org/
