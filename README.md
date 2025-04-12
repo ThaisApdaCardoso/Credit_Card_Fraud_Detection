@@ -1,4 +1,3 @@
----
 
 ## 💳 Detecção de Fraudes em Transações Financeiras  
 
@@ -87,17 +86,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 - Testar outros modelos como XGBoost  
 - Ajustar o limiar de decisão  
 - Criar uma aplicação interativa com Streamlit ou Flask
-
----
-
-### 🗂️ Estrutura do Projeto
-
-```
-├── project_creditcard.ipynb         
-├── creditcard.csv                   
-├── modelo_random_forest.pkl         
-└── README.md                        
-```
 
 ---
 
