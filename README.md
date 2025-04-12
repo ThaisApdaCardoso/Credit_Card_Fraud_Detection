@@ -34,11 +34,13 @@ Para rodar este projeto, é necessário ter as seguintes bibliotecas instaladas 
 
 ### ⚙️ Instalação
 
+```
 **No Google Colab:**
 !pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 
 **Localmente:**
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+```
 
 ---
 
